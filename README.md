@@ -1,4 +1,4 @@
-# flutter_movie_app_bloc_self
+# flutter_movie_app_bloc
 
 A new Flutter project.
 
